@@ -3,30 +3,30 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Leo Arseneault
+    tagline: Automation & Controls Specialist
+    avatar: Headshot.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: Leo@Arseneault.me
+    phone: +1 (514) 295-5886
+    citizenship: Canadian
+    website:  #do not add http://
+    linkedin: Leo-Arseneault
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: Resume.pdf
 
     languages:
       - idiom: English
@@ -35,137 +35,166 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: PLC Discord
+        link: https://discord.gg/2c7HEVZDUz
+
+      - item: Video Games
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hey, I’m Leo, and I am a UL 508A Certified MTR/Ignition Credentialed 
+      Integrator with experience in Packaging, Water treatment, Chemical Production,
+      Concrete Batching, and General Automation Industry based in Montreal, Canada.
+      I have experience working as both a traveling and an in-house controls 
+      specialist. I started off my career by working as an independent contractor
+      where I progressed from an automation/instrumentation tech replacing various
+      sensors and devices to doing turnkey projects from scratch (Project management,
+      Sales, Logistics, Drafting with AutoCAD, Programming, and Installation). At 
+      Scale-Tron I filled many roles from IT/Sysadmin for the company to R&D and 
+      Project Management. At Sidel is where I honed my integration and programming
+      skills on many different platforms and discovered that I don’t mind traveling
+      for work when I stayed in Los Angeles at the Anheuser-Busch factory for 70 days straight.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 
+      university: 
+      time: 
+      details: 
+    - degree: 
+      university: 
+      time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Program, Automation and Controls Specialist
+      time: Aug 2021 - Present 
+      company: Sidel, Laval QC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        -PLC programming/integration specializing in conveyors/line flow, bottling/canning facilities, and packaging
+        -Starting projects from scratch and communicating with various vendors and the client to interlock our new system into the existing line and all the machines
+        -Create interlock lists, DDE read and write tables with Visual Basic/Excel to manage recipes and log alarms during start-ups to speed up troubleshooting
+        -Have meetings with clients and provide daily, clear, and concise project reports so that everyone is up to speed regarding the progress of project
+        -Ensuring that the % production efficiency goal is met in a timely manner 
+        -Integration of various PLCs new and old into our line.
+        -Finding parts at a local distributer on site for immediate repairs/additions, getting quotes, purchasing, and expensing
+        -Maintaining a punch list and defining what exactly is in scope with client and site manager so that I can wrap up the project in a timely manner
+        -Coaching/mentoring newer automation technicians
+        -Red-line electrical schematics and mechanical layouts so that they can be changed by drafters
+        -Program using various client standards
+
+    - role: Control Specialist
+      time: Jul 2020 - Aug 2021 (1 year 2 months)
+      company: Scale-Tron Inc., Montreal QC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        -Project Management (Initial client talks, Quoting, Purchasing, Programming, Supervision of UL ICP wiring, Quality control, Logistics, Post Delivery Support)
+        -R&D of new products/updating of older products (For all products changed made documentation, SOPs and templates)
+        -Omron PLC/HMI Programming (CX-Programmer, CX-Designer, Sysmac Studio)
+        -Ignition Credentialled Integrator
+        -UL508a MTR, Designed Industrial control panel layout/drew electrical schematics
+        -Lead for general non-concrete automation
+        -IT/Networking support
+        -Handled projects during global supply chain issues, and still met shipping deadlines, and kept clients satisfied
+        -Developed ways of re-creating outsourced products, bringing them in house to reduce costs while reducing lead times and improving quality
+
+    - role: Automation Technician
+      time: Apr 2019 - Jul 2020 (1 year 4 months)
+      company: Leo Arseneault Automation (Independant Contractor), Montreal QC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        CUISSS Boisbriand
+            -Designed, built, produced drawings for complete control systems for pumping, automated valves, level sensors and alarms.
+            -Programming Siemens PLC and HMI touch screen with data logging
+            -Wiring of control panel to field instruments
+            -Testing and start up of complete system
+            -Produced complete O&M manual and provided training to the end-user
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        Parc Wilson Île Bizard (Highly automated biological membrane wastewater treatment turnkey plant)
+            -Performed troubleshooting on the control panel, instrumentation, and computer-related issues including networking with RF signals to remote panel.
+            -Modification to PLC program
+            -Repair and replacement of various instruments
+            -Remote reporting and alarms via PC with DDE and Excel
+            -Replacement and configuration of Allen Bradley Powerflex VFD via Ethernet
+            -Operation remote connection (Anydesk) 
+            -Training of operators and provided SOPs/Maintenance procedure documentation
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        Constant America (Highly automated water treatment and chemical manufacturing plant)
+            -Complete remake of HMI (AdvancedHMI->Factorytalk ME) and make modifications to existing PLC program (Studio 5k)
+            -Programming, calibration, and testing of flow control system to give precision filling requirements 
+            -Using PLC and VFDs and mass flow meters
+            -Performed various instances of troubleshooting 
+            -Fixed networking problems remotely 
+            -Working with PPE in hazardous situations while installing sensitive equipment 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        Le Troupeau Benit Cheese factory
+            -A complete overhaul of system to increase water treatment capabilities
+            -Installation of a pH and oxygen regulating system
+            -Tested treated water for phosphates and fat 
+            -Set up a network, cellular data modem and antenna 
+            -Plumbing of water-tight conduits for floats in the water treatment tank
+            -Programming plc and HMI interfaces
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        St-Hubert
+            -Troubleshooting/replacement of a flowmeter
+            -Troubleshooting of a level detector 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        Bierra Fineli
+            -Startup of a previously not running brewery
+            -Troubleshooting of a panel/HMI
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: DevStudio
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: Tempo
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      #- title: Delta
+        #link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+#publications:
+    #title: Publications
+    #intro: |
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
+    #papers:
+      #- title: The Art of Computer Programming
+        #link: "#"
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
+
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #link: "#"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      #- title: A syntax directed compiler for Algol 60
+        #link: "#"
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -189,5 +218,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
